@@ -1,0 +1,17 @@
+D:\Doucument\TODOAPP\src\obj\Debug\net9.0\src.csproj.AssemblyReference.cache
+D:\Doucument\TODOAPP\src\obj\Debug\net9.0\src.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doucument\TODOAPP\src\obj\Debug\net9.0\src.AssemblyInfoInputs.cache
+D:\Doucument\TODOAPP\src\obj\Debug\net9.0\src.AssemblyInfo.cs
+D:\Doucument\TODOAPP\src\obj\Debug\net9.0\src.csproj.CoreCompileInputs.cache
+D:\Doucument\TODOAPP\src\bin\Debug\net9.0\src.exe
+D:\Doucument\TODOAPP\src\bin\Debug\net9.0\src.deps.json
+D:\Doucument\TODOAPP\src\bin\Debug\net9.0\src.runtimeconfig.json
+D:\Doucument\TODOAPP\src\bin\Debug\net9.0\src.dll
+D:\Doucument\TODOAPP\src\bin\Debug\net9.0\src.pdb
+D:\Doucument\TODOAPP\src\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Doucument\TODOAPP\src\obj\Debug\net9.0\src.csproj.Up2Date
+D:\Doucument\TODOAPP\src\obj\Debug\net9.0\src.dll
+D:\Doucument\TODOAPP\src\obj\Debug\net9.0\refint\src.dll
+D:\Doucument\TODOAPP\src\obj\Debug\net9.0\src.pdb
+D:\Doucument\TODOAPP\src\obj\Debug\net9.0\src.genruntimeconfig.cache
+D:\Doucument\TODOAPP\src\obj\Debug\net9.0\ref\src.dll
